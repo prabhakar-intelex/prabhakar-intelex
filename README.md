@@ -1,9 +1,11 @@
 # Prabhakar Rajput
 
-### Full Stack Developer
+### Full Stack Developer | Automation Test Engineer
 
-I build modern web applications, bringing together clean user interfaces and reliable backend functionality.
+I build modern web applications and create reliable automation tests for web applications.
 
-**Focus:** Full-stack development · Frontend development · Backend development · Web applications
+**Focus:** Full-stack development · Frontend development · Backend development · Automation testing
 
-**Keywords:** Prabhakar Rajput, Full Stack Developer, Web Developer, Frontend Developer, Backend Developer, Software Developer
+**Automation testing:** Playwright · Selenium · .NET Selenium · .NET Playwright
+
+**Keywords:** Prabhakar Rajput, Full Stack Developer, Automation Test Engineer, Playwright, Selenium, .NET, Web Developer, Frontend Developer, Backend Developer, Software Developer
